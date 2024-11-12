@@ -1,4 +1,4 @@
-package com.github.thejeziera.sapcpitoolkit.listeners
+package com.thejeziera.sapcpitoolkit.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

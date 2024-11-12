@@ -1,4 +1,4 @@
-package com.github.thejeziera.sapcpitoolkit
+package com.thejeziera.sapcpitoolkit
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

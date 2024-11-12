@@ -1,4 +1,4 @@
-package com.github.thejeziera.sapcpitoolkit.toolWindow
+package com.thejeziera.sapcpitoolkit.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.thejeziera.sapcpitoolkit.MyBundle
-import com.github.thejeziera.sapcpitoolkit.services.MyProjectService
+import com.thejeziera.sapcpitoolkit.MyBundle
+import com.thejeziera.sapcpitoolkit.services.MyProjectService
 import javax.swing.JButton
 
 

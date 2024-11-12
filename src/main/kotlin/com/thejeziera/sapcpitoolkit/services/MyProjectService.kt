@@ -1,9 +1,9 @@
-package com.github.thejeziera.sapcpitoolkit.services
+package com.thejeziera.sapcpitoolkit.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.thejeziera.sapcpitoolkit.MyBundle
+import com.thejeziera.sapcpitoolkit.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {
